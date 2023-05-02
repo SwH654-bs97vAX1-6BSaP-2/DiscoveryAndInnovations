@@ -6257,9 +6257,9 @@
           "id": 10,
           "name": "exit-to-sewing-machine-second-floor",
           "visible": true,
-          "x": 901.672786617707,
-          "y": 575.275397796818,
-          "height": 32.6397388820889,
+          "x": 843.603322390688,
+          "y": 586.231900481161,
+          "height": 21.6832361977457,
           "properties": [
             {
               "name": "exitUrl",
@@ -6269,7 +6269,7 @@
           ],
           "rotation": 0,
           "type": "area",
-          "width": 116.279069767442
+          "width": 221.461495537136
         }
       ],
       "opacity": 1,
@@ -6286,7 +6286,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "storage-room-chunk-1-60e743db.png",
+      "image": "storage-room-chunk-1-f41627ef.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6312,7 +6312,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "storage-room-chunk-2-60e743db.png",
+      "image": "storage-room-chunk-2-f41627ef.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6327,7 +6327,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "storage-room-chunk-3-60e743db.png",
+      "image": "storage-room-chunk-3-f41627ef.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6342,7 +6342,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "storage-room-chunk-4-60e743db.png",
+      "image": "storage-room-chunk-4-f41627ef.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6357,7 +6357,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "storage-room-chunk-5-60e743db.png",
+      "image": "storage-room-chunk-5-f41627ef.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6372,7 +6372,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "storage-room-chunk-6-60e743db.png",
+      "image": "storage-room-chunk-6-f41627ef.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6387,7 +6387,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "storage-room-chunk-7-60e743db.png",
+      "image": "storage-room-chunk-7-f41627ef.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
