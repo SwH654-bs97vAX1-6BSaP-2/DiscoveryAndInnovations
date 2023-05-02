@@ -2351,7 +2351,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":101,
                  "id":43,
-                 "name":"entry-birdge-3",
+                 "name":"entry-bridge-3",
                  "opacity":1,
                  "properties":[
                         {
@@ -3978,7 +3978,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"mechanical-tunnel.json#entry-from-discovery-right"
+                         "value":"mechanical-tunnel.tmj#entry-from-discovery-right"
                         }],
                  "rotation":0,
                  "type":"area",

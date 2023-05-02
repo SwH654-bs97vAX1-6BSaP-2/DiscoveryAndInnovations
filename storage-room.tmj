@@ -362,7 +362,7 @@
                  "y":307.597662257767
                 }, 
                 {
-                 "height":32.6397388820889,
+                 "height":21.6832361977457,
                  "id":10,
                  "name":"exit-to-sewing-machine-second-floor",
                  "properties":[
@@ -374,9 +374,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":116.279069767442,
-                 "x":901.672786617707,
-                 "y":575.275397796818
+                 "width":221.461495537136,
+                 "x":843.603322390688,
+                 "y":586.231900481161
                 }],
          "opacity":1,
          "type":"objectgroup",
